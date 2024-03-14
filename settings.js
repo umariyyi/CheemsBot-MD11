@@ -19,7 +19,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
+global.botname = 'BOT DEPLOYER MD' //ur bot name
 global.ownernumber = '256763155715' //ur owner number
 global.ownername = 'Bot deployer' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
@@ -40,8 +40,8 @@ global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.anticall = True //bot blocks user when called
+global.autoswview = True //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
